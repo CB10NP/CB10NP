@@ -1,6 +1,8 @@
 # Hi there, I'm CB10NP 👋
 
-I am a person.
+<p align="left">
+  <img src="https://demolab.com." alt="Typing Animation" />
+</p>
 
 ### 📊 My GitHub Stats
 <p align="left">
